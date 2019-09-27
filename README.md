@@ -39,4 +39,12 @@ https://www.kaggle.com/speedoheck/inpatient-hospital-charges/
 
 ### Big data solutions
 one solution per developer.
-* Taraka Raviteja Peddi
+####  Taraka Raviteja Peddi
+Mapper input: one line data that mapper will read:
+039 - EXTRACRANIAL PROCEDURES W/O CC/MCC	10001	SOUTHEAST ALABAMA MEDICAL CENTER	1108 ROSS CLARK CIRCLE	DOTHAN	AL	36301	AL - Dothan	91	$32,963.07 	$5,777.24 	$4,763.73 
+Mapper Output/reducer input:example of an intermediate key, value pair output by your mapper:
+    Al 879
+    AK 23
+    AZ 606
+    
+
