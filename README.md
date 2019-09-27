@@ -46,5 +46,11 @@ Mapper Output/reducer input:example of an intermediate key, value pair output by
     Al 879
     AK 23
     AZ 606
-    
+    Reduced ouput:
+     city = AL(Albama) total number of discharges = 879
+     Language :
+     Language used for map reducing python
+     What kind of chart will you use to display your results?
+     I will use pie chat to display results.
+     
 
