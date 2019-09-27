@@ -38,3 +38,5 @@ https://www.kaggle.com/speedoheck/inpatient-hospital-charges/
 * For each state, calculate the total number of discharges.(Peddi Taraka Raviteja).
 
 ### Big data solutions
+one solution per developer.
+* Taraka Raviteja Peddi
