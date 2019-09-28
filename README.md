@@ -35,7 +35,8 @@ https://www.kaggle.com/speedoheck/inpatient-hospital-charges/
 * Veracity: Data is very clear. There are no redundant columns and the records was collected from USA Health department dataset https://data.cms.gov/Medicare-Inpatient/Inpatient-Prospective-Payment-System-IPPS-Provider/97k6-zzx3 and it seems to be reliable.  
 * Value: Using this data source we can evaluate  years of hospital charges for patients  data including their providerid, state,their amount of discharge, average medicare payments,average total payments all the other information.  
 ### Big Data Questions
-* For each state, calculate the total number of discharges.(Peddi Taraka Raviteja).
+* For each state, calculate the total number of discharges.(Peddi Taraka Raviteja).  
+* For each city, calculate the maximum number of Average total payments(Sai Manikanta Durga Prasad,Vinukonda)  
 
 ### Big data solutions
 one solution per developer.
