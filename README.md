@@ -74,5 +74,20 @@ One solution per developer.
      I will use bar chat to display results.    
      
      
+ - #### Yaswanth Yarram
+ * Mapper input: One line data that mapper will read.  
+    * 039 - EXTRACRANIAL PROCEDURES W/O CC/MCC	10001	SOUTHEAST ALABAMA MEDICAL CENTER	1108 ROSS CLARK CIRCLE	DOTHAN	AL	36301	AL - Dothan	91	$32,963.07 	$5,777.24 	$4,763.73   
+    * Mapper Output/reducer input:Example of an intermediate key, value pair output by your mapper:  
+     DOTHAN - 91
+     BOAZ - 14
+     FLORENCE - 24
+   *  Reduced Output:  
+     city = DOTHAN count of total discharges = 91.  
+    * Language :    
+     Language used for map reducing is  python    
+    *  What kind of chart will you use to display your results?    
+     I will use bar chat to display results. 
+     
+     
 
   
