@@ -36,10 +36,10 @@ https://www.kaggle.com/speedoheck/inpatient-hospital-charges/
 * Value: Using this data source we can evaluate  years of hospital charges for patients  data including their providerid, state,their amount of discharge, average medicare payments,average total payments all the other information.  
 ### Big Data Questions
 * For each state, calculate the total number of discharges.(Peddi Taraka Raviteja).  
-* For each city, calculate the maximum number of Average total payments(Sai Manikanta Durga Prasad,Vinukonda)  
+* For each state, calculate the maximum number of Average total payments(Sai Manikanta Durga Prasad,Vinukonda)  
 
 ### Big data solutions
-one solution per developer.
+One solution per developer.
 - #### Taraka Raviteja Peddi
 * Mapper input: One line data that mapper will read:
    * 039 - EXTRACRANIAL PROCEDURES W/O CC/MCC	10001	SOUTHEAST ALABAMA MEDICAL CENTER	1108 ROSS CLARK CIRCLE	DOTHAN	AL	36301	AL - Dothan	91	$32,963.07 	$5,777.24 	$4,763.73  
@@ -48,12 +48,29 @@ one solution per developer.
     Al 879  
     AK 23  
     AZ 606  
-    *  Reduced ouput:  
+    *  Reduced Output:  
      city = AL(Albama) total number of discharges = 879  
     * Language :  
      Language used for map reducing python  
     * What kind of chart will you use to display your results?  
      I will use pie chat to display results.  
+     
+     
+ - #### Sai Manikanta Durga Prasad Vinukonda  
+ * Mapper input: One line data that mapper will read.  
+    * 039 - EXTRACRANIAL PROCEDURES W/O CC/MCC	10001	SOUTHEAST ALABAMA MEDICAL CENTER	1108 ROSS CLARK CIRCLE	DOTHAN	AL	36301	AL - Dothan	91	$32,963.07 	$5,777.24 	$4,763.73   
+    * Mapper Output/reducer input:Example of an intermediate key, value pair output by your mapper:  
+     Az- 166748.44  
+     Al- 140505.02  
+     Ar-97901.26  
+     Ak- 7768   
+   *  Reduced Output:  
+     city = AZ(Arizona) maximun number of totalpayments = 166748.44    
+    * Language :    
+     Language used for map reducing is  python    
+    *  What kind of chart will you use to display your results?    
+     I will use bar chat to display results.    
+     
      
 
   
