@@ -39,6 +39,7 @@ https://www.kaggle.com/speedoheck/inpatient-hospital-charges/
 * For each state, calculate the total number of discharges.(Peddi Taraka Raviteja).  
 * For each state, calculate the maximum number of Average total payments(Sai Manikanta Durga Prasad.Vinukonda)  
 * For each city, count the number of total discharges.(Yaswanth Yarram)
+* For each city, calculate the number of Average medical payments(Jarvis hang wang)
 
 ### Big data solutions
 One solution per developer.
@@ -87,6 +88,20 @@ One solution per developer.
      Language used for map reducing is  python    
     *  What kind of chart will you use to display your results?    
      I will use pie chart to display the results. 
+     
+      - #### Jarvis Hang wang
+ * Mapper input: One line data that mapper will read.  
+    * 039 - EXTRACRANIAL PROCEDURES W/O CC/MCC	10001	SOUTHEAST ALABAMA MEDICAL CENTER	1108 ROSS CLARK CIRCLE	DOTHAN	AL	36301	AL - Dothan	91	$32,963.07 	$5,777.24 	$4,763.73   
+    * Mapper Output/reducer input:Example of an intermediate key, value pair output by your mapper:  
+      FLORENCE - $4,453.79 
+     DOTHAN - $4,763.73 
+     BOAZ - $4,976.71
+   *  Reduced Output:  
+     city = Florence minimum number of medical payments = $4453.79
+    * Language :    
+     Language used for map reducing is  python    
+    *  What kind of chart will you use to display your results?    
+     I will use bar chart to display the results. 
      
      
 
