@@ -16,6 +16,7 @@ We are functioning on this project for Bigdata course. Our project number is 08.
 ### Links  
 
 https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce  
+https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/issues  
 ### Introduction
 This project is hand-me-down to implement map reduce functionality on our bigdata source Hospital Charges for Inpatients. The reason why we choose Hospital Charges for Inpatients as our data source is because there is a good amount of data and also there are many  rows and columns which gave us multiple options to map reduce.
 
