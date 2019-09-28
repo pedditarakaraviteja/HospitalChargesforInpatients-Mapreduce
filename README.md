@@ -37,7 +37,8 @@ https://www.kaggle.com/speedoheck/inpatient-hospital-charges/
 * Value: Using this data source we can evaluate  years of hospital charges for patients  data including their providerid, state,their amount of discharge, average medicare payments,average total payments all the other information.  
 ### Big Data Questions
 * For each state, calculate the total number of discharges.(Peddi Taraka Raviteja).  
-* For each state, calculate the maximum number of Average total payments(Sai Manikanta Durga Prasad,Vinukonda)  
+* For each state, calculate the maximum number of Average total payments(Sai Manikanta Durga Prasad.Vinukonda)  
+* For each city, count the number of total discharges.(Yaswanth Yarram)
 
 ### Big data solutions
 One solution per developer.
