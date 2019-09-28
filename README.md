@@ -43,15 +43,16 @@ one solution per developer.
 * Mapper input: One line data that mapper will read:
    * 039 - EXTRACRANIAL PROCEDURES W/O CC/MCC	10001	SOUTHEAST ALABAMA MEDICAL CENTER	1108 ROSS CLARK CIRCLE	DOTHAN	AL	36301	AL - Dothan	91	$32,963.07 	$5,777.24 	$4,763.73  
    
-*Mapper Output/reducer input:example of an intermediate key, value pair output by your mapper:
-    Al 879
-    AK 23
-    AZ 606
-    *Reduced ouput:
-     city = AL(Albama) total number of discharges = 879
-    * Language :
-     Language used for map reducing python
-    * What kind of chart will you use to display your results?
-     I will use pie chat to display results.
+*  Mapper Output/reducer input:Example of an intermediate key, value pair output by your mapper:  
+    Al 879  
+    AK 23  
+    AZ 606  
+    *  Reduced ouput:  
+     city = AL(Albama) total number of discharges = 879  
+    * Language :  
+     Language used for map reducing python  
+    * What kind of chart will you use to display your results?  
+     I will use pie chat to display results.  
      
 
+  
