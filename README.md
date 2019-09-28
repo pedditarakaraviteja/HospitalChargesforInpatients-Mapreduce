@@ -55,7 +55,7 @@ One solution per developer.
     * Language :  
      Language used for map reducing python  
     * What kind of chart will you use to display your results?  
-     I will use pie chat to display results.  
+     I will use pie chart to display results.  
      
      
  - #### Sai Manikanta Durga Prasad Vinukonda  
@@ -71,7 +71,7 @@ One solution per developer.
     * Language :    
      Language used for map reducing is  python    
     *  What kind of chart will you use to display your results?    
-     I will use bar chat to display results.    
+     I will use bar chart to display results.    
      
      
  - #### Yaswanth Yarram
@@ -86,7 +86,7 @@ One solution per developer.
     * Language :    
      Language used for map reducing is  python    
     *  What kind of chart will you use to display your results?    
-     I will use bar chat to display results. 
+     I will use pie chart to display the results. 
      
      
 
