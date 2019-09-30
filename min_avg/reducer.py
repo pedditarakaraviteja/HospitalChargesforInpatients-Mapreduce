@@ -1,4 +1,6 @@
+# mapin is a variable which reads input file mapoutputs.txt.
 mapin = open("./min_avg/mapoutputs.txt","r")
+# mapout is a vriable which writes output to r.txt file.
 mapout = open("r.txt","w")
 thisKey = ""
 # thisValue = 0.0
@@ -8,8 +10,11 @@ for line in mapin:
   data = line.split('\t')
   City = data[0]
   Averagecoveredcharges = data[1]
+  # rowList is an array which is appended with city names.
   rowList.append(City)
+  # rowList is then appended Averagecoveredcharges.
   rowList.append(Averagecoveredcharges)
+  # now we append the rowList to fullList.
   fullList.append(rowList)
 #fullList.sort()
 minValue = 0.0
@@ -25,11 +30,12 @@ for row in fullList:
   thisKey = row[0]
   row[1] = row[1].replace(",","")
   thisValue = float(row[1])
+  #This is a logic to find out the city with minimum Averagecoveredcharges.
   if thisValue > minValue:
     minValue = thisValue
   finalObject[thisKey] =minValue
+  # This loop writes output to the r.txt file.
 for keyValue in finalObject:
-  # print(keyValue + " " + str(finalObject[keyValue])+"\n")
   mapout.write(keyValue + " " + str(finalObject[keyValue]) +"\n")
 
 # close redinput and redouput file
