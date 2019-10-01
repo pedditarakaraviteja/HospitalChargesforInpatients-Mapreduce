@@ -73,7 +73,9 @@ One solution per developer.
     * Language :    
      Language used for map reducing is  python    
     *  What kind of chart will you use to display your results?    
-     I will use bar chart to display results.    
+     I will use bar chart to display results. 
+     
+     ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/images/Screenshot%20(648).png)  
      
      
  - #### Yaswanth Yarram
