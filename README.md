@@ -113,8 +113,10 @@ One solution per developer.
    * Language :    
      Language used for map reducing is  python    
    *  What kind of chart will you use to display your results?    
-     I will use bar chart to display the results. 
+     I will use bar chart to display the results.  
+     * Output Screenshot :
+     ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/output%20screesnshots/Jarvis(Totalmedi).png)  
      
-     
+     * Bar chart :
 ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/images/Screenshot%20(4).png)
   
