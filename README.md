@@ -91,7 +91,8 @@ One solution per developer.
     * Language :    
      Language used for map reducing is  python    
     *  What kind of chart will you use to display your results?    
-     I will use pie chart to display the results. 
+     I will use line chart to display the results. 
+     ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/images/Screenshot%20(85).png)  
      
       - #### Jarvis Hongyang wang
  * Mapper input: One line data that mapper will read.  
