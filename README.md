@@ -78,7 +78,7 @@ One solution per developer.
      I will use bar chart to display results. 
      * Output Screenshot:
      ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/output%20screesnshots/Max_avg(Durga%20Prasad).png)  
-     * Bar chat Screenshot:  
+     * Bar chart Screenshot:  
      ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/images/Screenshot%20(648).png)  
      
      
@@ -96,6 +96,9 @@ One solution per developer.
      Language used for map reducing is  python    
     *  What kind of chart will you use to display your results?    
      I will use line chart to display the results. 
+     * Output Screenshot:  
+     ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/output%20screesnshots/Min_avg(Yaswanth).png)  
+     * Line Chart Screenshot
      ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/images/Screenshot%20(85).png)  
      
       - #### Jarvis Hongyang wang
