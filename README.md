@@ -58,6 +58,7 @@ One solution per developer.
     * What kind of chart will you use to display your results?  
      I will use pie chart to display results.  
      
+     ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/Screenshot%20(314).png)   
      
  - #### Sai Manikanta Durga Prasad Vinukonda  
  * Mapper input: One line data that mapper will read.  
