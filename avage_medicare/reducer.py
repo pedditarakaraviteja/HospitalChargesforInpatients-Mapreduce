@@ -21,10 +21,10 @@ for line in rinput:
     thisKey = City
     thisValue = 0.0
   
-  # apply the aggregation function for calculating totaldischarges.
+  # apply the aggregation function for calculating totalmedicarepayments.
 
     thisValue += float(Averagemedicarepayments)
-
+    
 # output the final entry into the routput file
 routput.write(thisKey + '\t' + str(thisValue)+'\n')
 # close rinput and routput file

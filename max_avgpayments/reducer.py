@@ -10,6 +10,7 @@ fullList = []
 for line in mapin:
   rowList = []
   data = line.split(' ')
+  #Storing the data in first array.
   State = data[0]
   Averagetotalpayements = data[1]
   rowList.append(State)
@@ -30,6 +31,7 @@ for row in fullList:
   thisKey = row[0]
   row[1] = row[1].replace(",","")
   thisValue = float(row[1])
+  # This is the aggregrate function to calculate the maximum 
   if thisValue > maxValue:
     maxValue = thisValue
   finalObject[thisKey] = maxValue

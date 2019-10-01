@@ -1,7 +1,7 @@
 #  open the file mapperoutput.txt and read the file into redinput.
-redinput = open("mapperoutput.txt","r")
+redinput = open("./total_cal/mapperoutput.txt","r")
 # open the file redoutput and write the file into redoupt
-redouput = open("redouput.txt", "w")
+redouput = open("./total_cal/redouput.txt", "w")
 
 thisKey = ""
 thisValue = 0.0

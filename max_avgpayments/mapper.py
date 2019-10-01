@@ -1,7 +1,7 @@
 # mapinput open the inpatientcharges and given the read access 
 mapinputs = open("./data/inpatientCharges.txt","r")
 # write results in output.txt.given the write access 
-mapoutput = open("mapoutputs.txt", "w")
+mapoutput = open("./max_avgpayments/mapoutputs.txt", "w")
 # open everyline in inpatientCharges.txt
 for line in mapinputs:
   # separate each column usi
