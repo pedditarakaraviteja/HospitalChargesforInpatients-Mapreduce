@@ -36,7 +36,7 @@ for row in fullList:
   finalObject[thisKey] =minValue
   # This loop writes output to the r.txt file.
 for keyValue in finalObject:
-  mapout.write(keyValue + " " + str(finalObject[keyValue]) +"\n")
+  mapout.write(keyValue + '\t' + str(finalObject[keyValue]) +"\n")
 
 # close redinput and redouput file
 mapin.close()
