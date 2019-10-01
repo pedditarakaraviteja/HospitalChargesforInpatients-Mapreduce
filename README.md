@@ -106,5 +106,5 @@ One solution per developer.
      I will use bar chart to display the results. 
      
      
-
+![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/images/Screenshot%20(4).png)
   
