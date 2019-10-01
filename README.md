@@ -56,8 +56,10 @@ One solution per developer.
     * Language :  
      Language used for map reducing python  
     * What kind of chart will you use to display your results?  
-     I will use pie chart to display results.  
-     
+     I will use pie chart to display results. 
+     * Output Screenshot:
+      ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/output%20screesnshots/Total_cal(Taraka%20Raviteja).png)
+     * Pie chart Screenshot:
      ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/images/Screenshot%20(314).png)   
      
  - #### Sai Manikanta Durga Prasad Vinukonda  
