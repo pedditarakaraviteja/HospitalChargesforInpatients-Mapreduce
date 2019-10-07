@@ -18,7 +18,7 @@ for line in mapin:
   fullList.append(rowList)
   # print(fullList)
 # This sort the entire list
-fullList.sort()
+#fullList.sort()
 maxValue = 0.0
 finalObject = {}
 for row in fullList:
