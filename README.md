@@ -60,6 +60,7 @@ One solution per developer.
      * Output Screenshot:
       ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/output%20screesnshots/Total_cal(Taraka%20Raviteja).png)
      * Pie chart Screenshot:
+     
      ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/images/RRR.JPG)   
      
  - #### Sai Manikanta Durga Prasad Vinukonda  
@@ -79,7 +80,8 @@ One solution per developer.
      * Output Screenshot:
      ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/output%20screesnshots/Max_avg(Durga%20Prasad).png)  
      * Bar chart Screenshot:  
-     ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/images/Screenshot%20(648).png)  
+    
+     ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/images/RSR.JPG)  
      
      
  - #### Yaswanth Yarram
@@ -98,8 +100,9 @@ One solution per developer.
      I will use line chart to display the results. 
      * Output Screenshot:  
      ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/output%20screesnshots/Min_avg(Yaswanth).png)  
-     * Line Chart Screenshot
-     ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/images/Screenshot%20(85).png)  
+     * Line Chart Screenshot:
+     
+     ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/images/SSS.JPG)  
      
       - #### Jarvis Hongyang wang
  * Mapper input: One line data that mapper will read.  
@@ -118,5 +121,5 @@ One solution per developer.
      ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/output%20screesnshots/Jarvis(Totalmedi).png)  
      
      * Bar chart :
-![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/images/Screenshot%20(4).png)
+![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/images/Tarak.JPG)
   
