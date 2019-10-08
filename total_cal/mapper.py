@@ -1,5 +1,5 @@
 # mapinput open the inpatientcharges and the read text 
-mapinput = open("inpatientCharges.txt","r")
+mapinput = open("./data/inpatientCharges.txt","r")
 # write results in output.txt
 mapoutput = open("mapperoutput.txt", "w")
 # open everyline in inpatientCharges.txt
