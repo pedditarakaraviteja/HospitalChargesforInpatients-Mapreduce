@@ -121,5 +121,6 @@ One solution per developer.
      ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/output%20screesnshots/Jarvis(Totalmedi).png)  
      
      * Bar chart :
-![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/images/Tarak.JPG)
+     
+      ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/images/Tarak.JPG)
   
