@@ -15,4 +15,3 @@ mapinputs.close()
 # close the mapoutput file 
 mapoutput.close()
 
-
