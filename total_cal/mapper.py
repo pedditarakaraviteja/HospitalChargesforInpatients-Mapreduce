@@ -9,7 +9,8 @@ for line in mapinput:
   # if number of columns in dataset is 12 then separate state and total discharges columns in datasource and write them in mapoutput.txt
   if (len(data) == 12):
    Definition, Id, Name, StreetAddress, City, State, Zipcode, Refferalregion, Totaldischarges, Averagecoveredcharges,  Averagetotalpayements, Averagemedicarepayments   = data
-   mapoutput.write(State + "\t" + Totaldischarges + "\n")
+   mapoutput.write('State' + )
+   mapoutput.write('State' + State + "\t" + 'Totaldischarges' + Totaldischarges+ "\n")
 # close mapinput and mapoutput.txt
 mapinput.close()
 mapoutput.close()
