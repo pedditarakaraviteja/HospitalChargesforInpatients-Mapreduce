@@ -60,7 +60,7 @@ One solution per developer.
      * Output Screenshot:
       ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/output%20screesnshots/Total_cal(Taraka%20Raviteja).png)
      * Pie chart Screenshot:
-     ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/images/Screenshot%20(314).png)   
+     ![](https://github.com/pedditarakaraviteja/HospitalChargesforInpatients-Mapreduce/blob/master/images/RRR.JPG)   
      
  - #### Sai Manikanta Durga Prasad Vinukonda  
  * Mapper input: One line data that mapper will read.  
