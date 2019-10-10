@@ -9,3 +9,6 @@ for line in mapinputs:
   if (len(data) == 12):
    Definition, Id, Name, StreetAddress, City, State, Zipcode, Refferalregion, Totaldischarges, Averagecoveredcharges,  Averagetotalpayements, Averagemedicarepayments   = data
    mapoutput.write(City + "\t" + Averagecoveredcharges + "\n")
+# close mapinput and mapoutput.txt
+mapinputs.close()
+mapoutput.close()
