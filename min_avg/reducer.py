@@ -15,3 +15,19 @@ for line in mapin:
   # rowList is then appended Averagecoveredcharges.
   rowList.append(Averagecoveredcharges)
   # now we append the rowList to fullList.
+   fullList.append(rowList)
+#fullList.sort()
+minValue = 0.0
+finalObject = {}
+list1 = []
+for row in fullList:
+  
+  if row[0] != thisKey:
+    thisKey = row[0]
+    thisValue = 0.0
+    minValue = 0.0
+
+  thisKey = row[0]
+  row[1] = row[1].replace(",","")
+  thisValue = float(row[1])
+  #This is a logic to find out the city with minimum Averagecoveredcharges.
