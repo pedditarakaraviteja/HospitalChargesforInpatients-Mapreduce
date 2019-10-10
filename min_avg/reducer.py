@@ -11,3 +11,7 @@ for line in mapin:
   City = data[0]
   Averagecoveredcharges = data[1]
   # rowList is an array which is appended with city names.
+  rowList.append(City)
+  # rowList is then appended Averagecoveredcharges.
+  rowList.append(Averagecoveredcharges)
+  # now we append the rowList to fullList.
