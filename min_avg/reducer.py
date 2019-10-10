@@ -31,3 +31,13 @@ for row in fullList:
   row[1] = row[1].replace(",","")
   thisValue = float(row[1])
   #This is a logic to find out the city with minimum Averagecoveredcharges.
+  if thisValue > minValue:
+    minValue = thisValue
+  finalObject[thisKey] =minValue
+  # This loop writes output to the r.txt file.
+for keyValue in finalObject:
+  mapout.write(keyValue + '\t' + str(finalObject[keyValue]) +"\n")
+
+# close redinput and redouput file
+mapin.close()
+mapout.close()
