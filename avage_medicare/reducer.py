@@ -11,18 +11,18 @@ for line in rinput:
   #remove the $ and , from Averagemedicarepayments to make sure the str can be change to float
   Averagemedicarepayments = Averagemedicarepayments.replace("$","")
   Averagemedicarepayments = Averagemedicarepayments.replace(",","")
-if City != thisKey: 
-    if thisKey:
+  if City != thisKey: 
+     if thisKey:
       # output the last key value pair result
-      routput.write(thisKey + '\t' + str(thisValue)+'\n')
+        routput.write(thisKey + '\t' + str(thisValue)+'\n')
 
     # start over when changing keys
-    thisKey = City
-    thisValue = 0.0
+     thisKey = City
+     thisValue = 0.0
   
   # apply the aggregation function for calculating totalmedicarepayments.
 
-    thisValue += float(Averagemedicarepayments)
+     thisValue += float(Averagemedicarepayments)
 # output the final entry into the routput file
 routput.write(thisKey + '\t' + str(thisValue)+'\n')
 # close rinput and routput file
