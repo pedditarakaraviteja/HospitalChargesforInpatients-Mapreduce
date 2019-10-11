@@ -11,3 +11,5 @@ for line in input:
    Definition, Id, Name, StreetAddress, City, State, Zipcode, Refferalregion, Totaldischarges, Averagecoveredcharges,  Averagetotalpayements, Averagemedicarepayments   = data
    output.write(City + "\t" + Averagemedicarepayments + "\n")
 # close input and output.txt
+input.close()
+output.close()
