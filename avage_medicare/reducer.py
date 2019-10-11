@@ -7,3 +7,7 @@ thisValue = 0.0
 # Reads the each line in rinput and seperated by tab space
 for line in rinput:
   data = line.strip().split('\t')
+  City, Averagemedicarepayments = data
+  #remove the $ and , from Averagemedicarepayments to make sure the str can be change to float
+  Averagemedicarepayments = Averagemedicarepayments.replace("$","")
+  Averagemedicarepayments = Averagemedicarepayments.replace(",","")
